@@ -47,3 +47,5 @@ This repository serves as a practical case study to understand how A* pathfindin
 |- astar_output.png
 /README.md
 
+![image](https://github.com/user-attachments/assets/07a5466e-f064-4bc4-88ae-9549687a6aae)
+
